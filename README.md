@@ -1,6 +1,5 @@
 hello
 
-`repositories are private`
 
 <p align="left"> 
   <kbd>
