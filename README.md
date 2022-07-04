@@ -3,10 +3,9 @@ Hello 💀
 
 <p align="left"> 
   <kbd>
-<img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">
+<img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">  **ez kid**
   </kbd>
 </p>
-_ez kid_
 
 </a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x9o&count_private=false&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="x9o" /> </p>
 
