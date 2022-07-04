@@ -1,9 +1,6 @@
 Hello 💀
 
-
-**啊！他们为什么不和我说话！我现在好悲伤。好的，我退出了。 去你的！**
-
-<p align="right"> 
+<p align="left"> 
   <kbd>
 <img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">
   </kbd>
