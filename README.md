@@ -1,9 +1,10 @@
 Hello 💀
 
 
-<p align="left"> 
+**ez kid**
+<p align="right"> 
   <kbd>
-<img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">  **ez kid**
+<img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">
   </kbd>
 </p>
 
