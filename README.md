@@ -2,7 +2,7 @@ Hello 💀
 
 <p align="left"> 
   <kbd>
-<img src="https://c.tenor.com/EG8FTfgxnngAAAAM/anime-stare-stare-anime.gif">
+<img src="https://64.media.tumblr.com/99d54adff9b4e9bca84b69d3f963bbc5/8d9d7c1e63a3cae3-c2/s1280x1920/089d5e348a69ed95432ef6eabdc85332ec45776c.gif">
   </kbd>
 </p>
 
