@@ -12,7 +12,7 @@ Hello 💀
 
 <a href="https://youtu.be/ASB0b2eCVn0" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
-<p align="center"> 
+<p align="left"> 
   <kbd>
 <img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-461.gif">
   </kbd>
