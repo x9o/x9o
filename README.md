@@ -1,8 +1,8 @@
 Hello
 
-<p align="center">
+<p align="left">
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
-<p align="center">
+<p align="left">
 
 </a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x9o&count_private=false&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="x9o" /> </p>
 
