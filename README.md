@@ -1,10 +1,8 @@
-Hello 💀
+Hello
 
-<p align="left"> 
-  <kbd>
-<img src="https://64.media.tumblr.com/99d54adff9b4e9bca84b69d3f963bbc5/8d9d7c1e63a3cae3-c2/s1280x1920/089d5e348a69ed95432ef6eabdc85332ec45776c.gif">
-  </kbd>
-</p>
+<p align="center">
+   <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+<p align="center">
 
 </a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x9o&count_private=false&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="x9o" /> </p>
 
