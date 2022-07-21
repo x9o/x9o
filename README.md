@@ -3,7 +3,3 @@
 <p align="left">
 
 <a href="https://youtu.be/ASB0b2eCVn0" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img 
-src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg"
-alt="snake"></a>
