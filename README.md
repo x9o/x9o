@@ -4,4 +4,4 @@
 
 <a href="https://youtu.be/ASB0b2eCVn0" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
-<img align="left" src="https://c.tenor.com/3uPr2xZyhr8AAAAC/aura.gif" width="100">
+<img align="left" src="https://c.tenor.com/3uPr2xZyhr8AAAAC/aura.gif" width="300">
