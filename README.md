@@ -2,4 +2,4 @@
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 <p align="left">
 
-<img align="left" src="https://tenor.com/view/synapse-synapse-x-roblox-exploiting-roblox-exploit-gif-22870820" width="300">
+<img align="left" src="https://media.tenor.com/0wUZ5-im7AAAAAAC/synapse-synapse-x.gif" width="300">
