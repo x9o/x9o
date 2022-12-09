@@ -1,4 +1,4 @@
-[![x9o's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![x9o's github stats](https://github-readme-stats.vercel.app/api?username=x9o)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
    <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
